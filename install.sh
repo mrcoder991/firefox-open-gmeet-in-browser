@@ -30,7 +30,7 @@ cat > "$NMH_DIR/$MANIFEST_NAME" <<EOF
   "description": "Opens URLs in an external browser for the Open Meet In... extension",
   "path": "$INSTALL_DIR/open_in_browser.sh",
   "type": "stdio",
-  "allowed_extensions": ["open-meet-external@example.org"]
+  "allowed_extensions": ["udaygirhepunje41open-meet-in@gmail.com"]
 }
 EOF
 

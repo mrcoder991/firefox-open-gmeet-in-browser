@@ -3,5 +3,5 @@
   "description": "Opens URLs in an external browser for the Open Meet In... Firefox extension",
   "path": "/PLACEHOLDER/native-host/open_in_browser.sh",
   "type": "stdio",
-  "allowed_extensions": ["open-meet-external@example.org"]
+  "allowed_extensions": ["udaygirhepunje41open-meet-in@gmail.com"]
 }
