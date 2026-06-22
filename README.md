@@ -2,7 +2,7 @@
 
 A Firefox Browser extension that automatically redirects Google Meet links to a browser of your choice (Helium, Zen, Arc, Brave, Chrome, or Safari).
 
-https://addons.mozilla.org/en-US/firefox/addon/open-meet-in-browser
+[🔗 Get it from Firefox Addons Store](https://addons.mozilla.org/en-US/firefox/addon/open-meet-in-browser)
 
 When you open any `meet.google.com` link in Firefox, it opens in your selected browser instead and closes the Firefox tab.
 
